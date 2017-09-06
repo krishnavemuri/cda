@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 The NASA space shuttle Challenger had a catastrophic accident during launch on January 28, 1986. Photographic evidence from the launch showed that the accident resulted from a plume of hot flame from the side of one of the booster rockets which cut into the main fuel tank. US President Reagan appointed a commission to investigate the accident. The commission concluded that the jet was due to the failure of an O-ring gasket between segments of the booster rocket.
 
-An important issue for the commission was whether the accident was avoidable. Attention focused on the fact that the ground temperature at the time of launch was 31 degrees Fahrenheit, much lower than for any previous launch. Commission member and Nobel laureate physicist Richard Feynman famously demonstrated, using a glass of ice water and a C-clamp, that the O-rings were very inflexible when cold. But did the data available to NASA before the launch indicate a high risk of an O-ring failure?
+An important issue for the commission was whether the accident was avoidable. Attention focused on the fact that the ground temperature at the time of launch was 31 degrees Fahrenheit, much lower than for any previous launch. Commission member and Nobel laureate physicist Richard Feynman famously demonstrated, using a glass of ice water and a C-clamp, that the O-rings were very inflexible when cold. **But did the data available to NASA before the launch indicate a high risk of an O-ring failure?**
 
 Here are some initial commands to load and look at the dataset, which has 23 observations, shown below sorted by temperature: 
 ```{r, message=FALSE, echo=FALSE}
